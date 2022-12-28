@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "testProject",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://choodoss.github.io/project-group-5",
+  "homepage": "https://Saniokkk.github.io/testProject",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-group-5/"
+    "build": "parcel build src/*.html --public-url /testProject/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/choodoss/project-group-5.git"
+    "url": "git+https://github.com/Saniokkk/testProject.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
